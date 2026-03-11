@@ -48,6 +48,7 @@ public class Assignment {
 	    	products.get(i).click();
 	    }
 	    driver.findElement(By.cssSelector(".nav-link.btn.btn-primary")).click();
+	    System.out.println("Hello");
 	    
 	    
 		

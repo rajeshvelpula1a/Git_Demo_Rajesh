@@ -34,6 +34,10 @@ public class EnabledOrDisabled {
 //		driver.findElement(By.id("item.isInventoried1")).isSelected();
 //		System.out.println(driver.findElement(By.id("item.minQuantity")).isEnabled());
 		System.out.println();
+<<<<<<< HEAD
+=======
+		
+>>>>>>> 96d9568b8f3070a2d475faf54e8414107ce84a70
 		
 
 	}
