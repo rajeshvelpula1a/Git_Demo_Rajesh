@@ -33,6 +33,8 @@ public class EnabledOrDisabled {
 //		driver.findElement(By.id("item.isInventoried1")).click();
 //		driver.findElement(By.id("item.isInventoried1")).isSelected();
 //		System.out.println(driver.findElement(By.id("item.minQuantity")).isEnabled());
+		System.out.println();
+		
 		
 
 	}

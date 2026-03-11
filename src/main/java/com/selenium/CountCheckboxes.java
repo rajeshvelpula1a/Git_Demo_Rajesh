@@ -6,6 +6,10 @@ public class CountCheckboxes {
 		// TODO Auto-generated method stub
 		System.out.println("Changes made1");
 		System.out.println("Changes made2");
+		// Code
+		System.out.println("Changes made3");
+		System.out.println("Changes made4");
+		System.out.println("Changes made5");
 
 	}
 
